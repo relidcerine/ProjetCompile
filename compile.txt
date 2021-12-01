@@ -1,0 +1,8 @@
+CODE HelloACAD
+
+INTEGER X;
+REAL Y;
+x=9;
+START 
+ X=x / 1;
+END.
